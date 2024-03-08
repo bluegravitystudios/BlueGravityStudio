@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/BGS_long_big.png">
   <p>We make games!</p>
-  <p>Blue Gravity Studios is a game development studio based in londong that specialises in producing and developing high-quality games.</p>
+  <p>Blue Gravity Studios is a game development studio based in London that specialises in producing and developing high-quality games.</p>
 </div>
 
 ## About us
