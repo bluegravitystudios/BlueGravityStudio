@@ -21,6 +21,8 @@ The studio currently develops for nearly all platforms and has direct partnershi
 
 For more information about the studio, you can check our website at: [Blue Gravity Studios](https://gravity.blue/)
 
+If you are interested into learning more about our in-house project you can check the steam page at: [Little Sim World](https://store.steampowered.com/app/1429880/Little_Sim_World/)
+
 <div align="center">
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/building-07.png">
 </div>
