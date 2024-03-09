@@ -53,30 +53,30 @@ Our expertise in game development extends to porting games across various platfo
 <div align="center">
   <p><b>DEFENSE OF THE ANCIENTS</p>
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/DOTA_BrownGlow.png">
-  <p>Our team helped design DotA during the early development phase alongside Icefrog. Today, DOTA 2 is one of the most played games in the world.</p>
+  <p>Our team helped design DotA during the early development phase alongside Icefrog. <br>Today, DOTA 2 is one of the most played games in the world.</p>
 </div>
 
 <div align="center">
   <p><b>RUNESCAPE / JAGEX</p>
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Runescape_Coloured.png">
-  <p>We have direct experience working with studios such as Jagex, allowing direct financing of high-quality vertical slices of our upcoming titles.</p>
+  <p>We have direct experience working with studios such as Jagex, allowing direct financing of <br>high-quality vertical slices of our upcoming titles.</p>
 </div>
 
 <div align="center">
   <p><b>GUINNESS WORLD RECORDS</p>
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Guinness_Long_2.png">
-  <p>Our team excels in setting gaming world records, breaking barriers, achieving recognition for outstanding contributions to the gaming industry.</p>
+  <p>Our team excels in setting gaming world records, breaking barriers, achieving recognition for <br>outstanding contributions to the gaming industry.</p>
 </div>
     
 <div align="center">
   <p><b>FIVERR PRO</p>
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/FiverrPro_Coloured.png">
-  <p>The studio is among verified Fiverr Pro developers, a select few on the platform. We focus on long-term relationships where every project matters.</p>
+  <p>The studio is among verified Fiverr Pro developers, a select few on the platform. We focus on <br>long-term relationships where every project matters.</p>
 </div>
 
 <div align="center">
   <p><b>UNIVERSITY OF CAMBRIDGE</p>
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Cambridge_Coloured.png">
-  <p>Blue Gravity was founded at the CU Startup Society by a team of technical doctorates who are passionate about indie titles and full-cycle game development.</p>
+  <p>Blue Gravity was founded at the CU Startup Society by a team of technical doctorates who are <br>passionate about indie titles and full-cycle game development.</p>
 </div>
 
