@@ -19,7 +19,7 @@ The studio focuses primarily on developing a small number of high-quality titles
 
 The studio currently develops for nearly all platforms and has direct partnerships with publishers worldwide.
 
-For more information about us, you can check our website at: [Blue Gravity Studios](https://gravity.blue/)
+For more information about the studio, you can check our website at: [Blue Gravity Studios](https://gravity.blue/)
 
 <div align="center">
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/building-07.png">
