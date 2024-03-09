@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/BGS_long_big.png">
   <p>Blue Gravity Studios is a game development studio based in London that specialises in producing and developing high-quality games.</p>
+  <p>The studio was created by a group of Cambridge doctorates with a passion towards game development and software.</p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Night_Main_Menu_Mockup_NoMoon_4096x2048.png">
+  <p>We have close partnerships with publishers across the world and have a diverse team of talented game developers.</p>
+  <p>All our titles are developed fully in-house with an emphasis on quality and originality.</p>
 </div>
 
 ## About us
@@ -18,7 +25,7 @@ The studio currently develops for nearly all platforms and has direct partnershi
 
 ## What We Do
 
-Our studio is a dynamic and multifaceted organization, dedicated to excellence across multiple sectors and platforms. With a diverse team of professionals, we possess the required skill set for a committed and specialized approach to every project we undertake. Our expertise allows us to navigate complex challenges and deliver tailor-made solutions that meet our clients' needs. Our dedication to innovation, quality, and customer satisfaction sets us apart in the competitive marketplace. We strive to build lasting relationships with our clients by exceeding expectations and consistently delivering exceptional results.
+Our studio is a dynamic and multifaceted organization, dedicated to excellence in developing high-quality titles. With a diverse team of professionals, we possess the required skill set for a committed and specialized approach to every project we undertake. Our expertise allows us to navigate complex challenges and deliver tailor-made solutions that meet our clients' needs. Our dedication to innovation, quality, and customer satisfaction sets us apart in the competitive marketplace. We strive to build lasting relationships with our clients by exceeding expectations and consistently delivering exceptional results.
 
 **With that in mind, our studio offers:**
 
@@ -35,3 +42,17 @@ Our studio places a strong emphasis on multiplayer experiences, recognizing them
 ### Game Porting
 Our expertise in game development extends to porting games across various platforms, including PC, console, and mobile. This capability allows us to broaden the reach of our titles, ensuring gamers can enjoy their favorite games on the device of their choice, thereby enhancing accessibility and player satisfaction.
 
+## Our Partners
+
+### 4399.NET
+We are actively working with the highly successful publisher, 4399.NET, who is publishing the mobile iteration of our in-house title, Little Sim World.
+### DEFENSE OF THE ANCIENTS
+Our team helped design DotA during the early development phase alongside Icefrog. Today, DOTA 2 is one of the most played games in the world.
+### RUNESCAPE / JAGEX
+We have direct experience working with studios such as Jagex, allowing direct financing of high-quality vertical slices of our upcoming titles.
+### GUINNESS WORLD RECORDS 
+Our team excels in setting gaming world records, breaking barriers, achieving recognition for outstanding contributions to the gaming industry.
+### FIVERR PRO
+The studio is among verified Fiverr Pro developers, a select few on the platform. We focus on long-term relationships where every project matters.
+### UNIVERSITY OF CAMBRIDGE
+Blue Gravity was founded at the CU Startup Society by a team of technical doctorates who are passionate about indie titles and full-cycle game development.
