@@ -10,7 +10,7 @@
   <p>All our titles are developed fully in-house with an emphasis on quality and originality.</p>
 </div>
 
-## About us
+# About us
 Blue Gravity Studios is a game development studio founded by avid gamers. Our passion for innovative game design drives us to create high-quality, industry-leading titles.
 
 Our team, distinguished by numerous Guinness World Records in gaming, is dedicated to consistently raising standards and advancing the frontiers of video game development.
@@ -23,7 +23,7 @@ The studio currently develops for nearly all platforms and has direct partnershi
   <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/building-07.png">
 </div>
 
-## What We Do
+# What We Do
 
 Our studio is a dynamic and multifaceted organization, dedicated to excellence in developing high-quality titles. With a diverse team of professionals, we possess the required skill set for a committed and specialized approach to every project we undertake. Our expertise allows us to navigate complex challenges and deliver tailor-made solutions that meet our clients' needs. Our dedication to innovation, quality, and customer satisfaction sets us apart in the competitive marketplace. We strive to build lasting relationships with our clients by exceeding expectations and consistently delivering exceptional results.
 
@@ -44,15 +44,39 @@ Our expertise in game development extends to porting games across various platfo
 
 ## Our Partners
 
-### 4399.NET
-We are actively working with the highly successful publisher, 4399.NET, who is publishing the mobile iteration of our in-house title, Little Sim World.
-### DEFENSE OF THE ANCIENTS
-Our team helped design DotA during the early development phase alongside Icefrog. Today, DOTA 2 is one of the most played games in the world.
-### RUNESCAPE / JAGEX
-We have direct experience working with studios such as Jagex, allowing direct financing of high-quality vertical slices of our upcoming titles.
-### GUINNESS WORLD RECORDS 
-Our team excels in setting gaming world records, breaking barriers, achieving recognition for outstanding contributions to the gaming industry.
-### FIVERR PRO
-The studio is among verified Fiverr Pro developers, a select few on the platform. We focus on long-term relationships where every project matters.
-### UNIVERSITY OF CAMBRIDGE
-Blue Gravity was founded at the CU Startup Society by a team of technical doctorates who are passionate about indie titles and full-cycle game development.
+<div align="center">
+  <p><b>4399.NET</p>
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/4399_Orange.png">
+  <p>We are actively working with the highly successful publisher, 4399.NET, who is <br>publishing the mobile iteration of our in-house title, Little Sim World.</p>
+</div>
+
+<div align="center">
+  <p><b>DEFENSE OF THE ANCIENTS</p>
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/DOTA_BrownGlow.png">
+  <p>Our team helped design DotA during the early development phase alongside Icefrog. Today, DOTA 2 is one of the most played games in the world.</p>
+</div>
+
+<div align="center">
+  <p><b>RUNESCAPE / JAGEX</p>
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Runescape_Coloured.png">
+  <p>We have direct experience working with studios such as Jagex, allowing direct financing of high-quality vertical slices of our upcoming titles.</p>
+</div>
+
+<div align="center">
+  <p><b>GUINNESS WORLD RECORDS</p>
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Guinness_Long_2.png">
+  <p>Our team excels in setting gaming world records, breaking barriers, achieving recognition for outstanding contributions to the gaming industry.</p>
+</div>
+    
+<div align="center">
+  <p><b>FIVERR PRO</p>
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/FiverrPro_Coloured.png">
+  <p>The studio is among verified Fiverr Pro developers, a select few on the platform. We focus on long-term relationships where every project matters.</p>
+</div>
+
+<div align="center">
+  <p><b>UNIVERSITY OF CAMBRIDGE</p>
+  <img src="https://github.com/bluegravitystudios/BlueGravityStudio/blob/main/Cambridge_Coloured.png">
+  <p>Blue Gravity was founded at the CU Startup Society by a team of technical doctorates who are passionate about indie titles and full-cycle game development.</p>
+</div>
+
